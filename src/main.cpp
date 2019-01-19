@@ -1687,8 +1687,6 @@ int64_t GetMasternodePayment(int nHeight, int64_t blockValue, int nMasternodeCou
 }
 
 
-}
-
 bool IsInitialBlockDownload()
 {
     return false;
