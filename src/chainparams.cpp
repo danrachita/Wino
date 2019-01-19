@@ -137,8 +137,19 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x61e2c153036cfed0383b1392c8a55e547c6d635ebd5ea50aec5a01b8e58746c6"));
         
 
-        vSeeds.push_back(CDNSSeedData("seed1.wino.live", "seed1.wino.live"));
-        vSeeds.push_back(CDNSSeedData("seed2.wino.live", "seed2.wino.live"));
+        vSeeds.push_back(CDNSSeedData("86.105.49.144", "86.105.49.144"));
+        vSeeds.push_back(CDNSSeedData("149.28.42.9", "149.28.42.9"));
+	vSeeds.push_back(CDNSSeedData("144.202.4.62", "144.202.4.62"));
+	vSeeds.push_back(CDNSSeedData("108.61.87.12", "108.61.87.12"));
+	vSeeds.push_back(CDNSSeedData("149.28.33.54", "149.28.33.54"));
+	vSeeds.push_back(CDNSSeedData("45.77.158.178", "45.77.158.178"));
+	vSeeds.push_back(CDNSSeedData("144.202.58.56", "144.202.58.56"));
+	vSeeds.push_back(CDNSSeedData("149.28.123.242", "149.28.123.242"));
+	vSeeds.push_back(CDNSSeedData("104.207.141.171", "104.207.141.171"));
+	vSeeds.push_back(CDNSSeedData("207.148.12.23", "207.148.12.23"));
+	vSeeds.push_back(CDNSSeedData("45.76.24.100", "45.76.24.100"));
+	vSeeds.push_back(CDNSSeedData("45.76.23.109", "45.76.23.109"));
+	vSeeds.push_back(CDNSSeedData("45.76.227.225", "45.76.227.225"));
         //vFixedSeeds.clear();
         //vSeeds.clear();
 
